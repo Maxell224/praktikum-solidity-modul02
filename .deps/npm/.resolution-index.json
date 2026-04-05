@@ -1,0 +1,13 @@
+{
+  ".git/SimpleStorage.sol": {
+    "__sources__": {}
+  },
+  ".git/SolidityModul2.sol": {
+    "__sources__": {
+      ".git/SolidityModul2.sol": {
+        "content": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.30; // Ini versi solidity\r\n\r\ncontract SimpleStorage {\r\n\r\n}\r\n\r\ncontract SimpleStorage1 {\r\n\r\n}",
+        "file": ".git/SolidityModul2.sol"
+      }
+    }
+  }
+}
